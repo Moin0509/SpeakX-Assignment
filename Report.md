@@ -3,7 +3,7 @@
       Customer churn is a critical challenge for businesses, as losing customers can significantly impact revenue and growth.         The objective of this project is to build a machine learning model that can predict customer churn based on historical data.<br />
    1.2 Objective:
        The primary objective of this project is to develop a model that can accurately predict customer churn. This will help businesses identify at-risk customers and take proactive measures to retain them.<br />
-     <br />
+       
 2. Dataset Overview:
      The dataset used in this project contains information about customers, including their demographics, usage patterns, and whether they churned or not. It consists of the following features:
 
@@ -33,7 +33,6 @@
     3.1 Data Preprocessing: Handled missing values and encoded categorical variables.<br />
     3.2 Data Visualization: Exploring variables and checking for insights<br />
     3.3 Model Selection and Training:Selected Logistic Regression, Random Forest, and Gradient Boosting as the models for churn prediction.
-    <br />
     
 4. Results:<br />
     4.1 Model Performance<br />
@@ -58,7 +57,7 @@
             Recall: 0.5288
             F1-Score: 0.5938
             AUC: 0.721
-   <br />
+
     4.2 Comparison of Models:<br />
         -Logistic Regression performed the best overall, with the highest accuracy, recall, and F1-score.<br />
         -Gradient Boosting also performed well but had slightly lower recall compared to Gradient Boosting.<br />
