@@ -38,27 +38,27 @@
 4. Results:<br />
     4.1 Model Performance<br />
     
-        Logistic Regression:<br />
-            Accuracy: 0.8169<br />
-            Precision: 0.6726<br />
-            Recall: 0.5566<br />
-            F1-Score: 0.6091<br />
-            AUC: 0.732<br />
+        Logistic Regression:
+            Accuracy: 0.8169
+            Precision: 0.6726
+            Recall: 0.5566
+            F1-Score: 0.6091
+            AUC: 0.732
             
-        Random Forest:<br />
-            Accuracy: 0.7979<br />
-            Precision: 0.6344<br />
-            Recall: 0.4991<br />
-            F1-Score: 0.5587<br />
-            AUC: 0.7<br />
+        Random Forest:
+            Accuracy: 0.7979
+            Precision: 0.6344
+            Recall: 0.4991
+            F1-Score: 0.5587
+            AUC: 0.7
         
-        Gradient Boosting:<br />
-            Accuracy: 0.8146<br />
-            Precision: 0.677<br />
-            Recall: 0.5288<br />
-            F1-Score: 0.5938<br />
-            AUC: 0.721<br />
-            <br />
+        Gradient Boosting:
+            Accuracy: 0.8146
+            Precision: 0.677
+            Recall: 0.5288
+            F1-Score: 0.5938
+            AUC: 0.721
+   <br />
     4.2 Comparison of Models:<br />
         -Logistic Regression performed the best overall, with the highest accuracy, recall, and F1-score.<br />
         -Gradient Boosting also performed well but had slightly lower recall compared to Gradient Boosting.<br />
