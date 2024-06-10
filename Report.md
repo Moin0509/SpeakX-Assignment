@@ -1,4 +1,4 @@
-## 1. Introduction:<br />
+1. Introduction:<br />
    1.1 Problem Statement
       Customer churn is a critical challenge for businesses, as losing customers can significantly impact revenue and growth.         The objective of this project is to build a machine learning model that can predict customer churn based on historical data.<br />
    1.2 Objective:
